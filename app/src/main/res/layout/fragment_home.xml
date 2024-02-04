@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".HomeFragment"
+    android:background="@drawable/bg_home_2">
+
+   <LinearLayout
+       android:layout_width="match_parent"
+       android:layout_height="match_parent"
+       android:orientation="vertical"
+       >
+       <TextView
+           android:id="@+id/tv1"
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           android:text="@string/app_name"
+           android:gravity="center"
+           android:textColor="@color/white"
+           android:textSize="24sp"
+           />
+       <androidx.cardview.widget.CardView
+           android:layout_marginTop="24dp"
+           android:layout_width="match_parent"
+           android:layout_height="250dp"
+           app:cardUseCompatPadding="true"
+           app:cardCornerRadius="12dp"
+           android:layout_marginStart="8dp"
+           android:layout_marginEnd="8dp"
+           android:background="@color/white"
+           >
+           <!-- Card-1-->
+           <LinearLayout
+               android:layout_width="match_parent"
+               android:layout_height="match_parent"
+               android:orientation="vertical"
+               android:gravity="center"
+               >
+               <LinearLayout
+                   android:layout_width="match_parent"
+                   android:layout_height="wrap_content"
+                   android:padding="8dp"
+                   android:gravity="center"
+                   >
+
+                   <LinearLayout
+                       android:layout_width="wrap_content"
+                       android:layout_height="wrap_content"
+                       android:orientation="vertical"
+                       android:layout_margin="4dp"
+                       android:gravity="center"
+                       >
+                       <ImageView
+                           android:layout_width="48dp"
+                           android:layout_height="48dp"
+                           android:background="@drawable/ic_baseline_add_a_photo_24"/>
+                       <TextView
+                           android:layout_width="wrap_content"
+                           android:layout_height="wrap_content"
+                           android:text="@string/click_a_picture"
+                           />
+                   </LinearLayout>
+                   <ImageView
+                       android:layout_width="40dp"
+                       android:layout_height="40dp"
+                       android:background="@drawable/ic_baseline_navigate_next_24"
+                       />
+                   <LinearLayout
+                       android:layout_width="wrap_content"
+                       android:layout_height="wrap_content"
+                       android:orientation="vertical"
+                       android:layout_margin="4dp"
+                       android:gravity="center"
+                       >
+                       <ImageView
+                           android:layout_width="48dp"
+                           android:layout_height="48dp"
+                           android:background="@drawable/ic_baseline_phone_android_24"/>
+                       <TextView
+                           android:layout_width="wrap_content"
+                           android:layout_height="wrap_content"
+                           android:text="@string/see_diagnosis"
+                           />
+                   </LinearLayout>
+                   <ImageView
+                       android:layout_width="40dp"
+                       android:layout_height="40dp"
+                       android:background="@drawable/ic_baseline_navigate_next_24"
+                       />
+                   <LinearLayout
+                       android:layout_width="wrap_content"
+                       android:layout_height="wrap_content"
+                       android:orientation="vertical"
+                       android:layout_margin="4dp"
+                       android:gravity="center"
+                       >
+                       <ImageView
+                           android:layout_width="48dp"
+                           android:layout_height="48dp"
+                           android:background="@drawable/ic_baseline_medical_services_24"/>
+                       <TextView
+                           android:layout_width="wrap_content"
+                           android:layout_height="wrap_content"
+                           android:text="@string/get_medicine"
+                           />
+                   </LinearLayout>
+
+               </LinearLayout>
+               <androidx.appcompat.widget.AppCompatButton
+                   android:id="@+id/askExpert"
+                   android:layout_width="match_parent"
+                   android:layout_height="48dp"
+                   android:layout_margin="24dp"
+                   android:background="@drawable/button_shaper"
+                   android:text="@string/ask_the_expert"
+                   android:textColor="@color/white"
+
+                   />
+           </LinearLayout>
+
+
+
+       </androidx.cardview.widget.CardView>
+
+       <androidx.cardview.widget.CardView
+           android:layout_width="match_parent"
+           android:layout_height="240dp"
+           app:cardUseCompatPadding="true"
+           android:layout_gravity="center"
+           app:cardCornerRadius="10dp"
+           android:layout_marginTop="30dp"
+           >
+
+           <ImageView
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content"
+               android:src="@drawable/cxss"
+               />
+
+
+           <androidx.appcompat.widget.AppCompatButton
+               android:id="@+id/viewSolution"
+               android:layout_width="match_parent"
+               android:layout_height="48dp"
+               android:layout_margin="16dp"
+               android:background="@drawable/button_shaper"
+               android:text="@string/view_solutions"
+               android:textColor="@color/white"
+               android:layout_gravity="bottom"
+               />
+
+
+       </androidx.cardview.widget.CardView>
+
+
+
+
+
+   </LinearLayout>
+
+
+</FrameLayout>

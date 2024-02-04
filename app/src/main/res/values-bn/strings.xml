@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CropEx Plus</string>
+    <string name="magic_login">ম্যাজিক লগইন</string>
+    <string name="select_language">অনুগ্রহ করে আপনার পছন্দের ভাষা নির্বাচন করুন</string>
+    <string name="continuee">চালিয়ে যান</string>
+    <string name="login">প্রবেশ করুন</string>
+    <string name="email">ইমেইল</string>
+    <string name="password">পাসওয়ার্ড</string>
+    <string name="don_t_have_a_account_sign_up">একটি অ্যাকাউন্ট নেই? নিবন্ধন করুন</string>
+    <string name="create_an_account">একটি অ্যাকাউন্ট তৈরি করুন</string>
+    <string name="name">নাম</string>
+    <string name="already_have_an_acount_sign_in">ইতিমধ্যে একটি সদস্যপদ আছে? সাইন ইন করুন</string>
+    <string name="join">যোগদান করুন</string>
+    <string name="ask_the_expert">বিশেষজ্ঞকে জিজ্ঞাসা করুন</string>
+    <string name="view_solutions">সমাধান দেখুন</string>
+    <string name="home">"হোম "</string>
+    <string name="profile">"প্রোফাইল "</string>
+    <string name="about">এবাউট উস</string>
+    <string name="contact_number2">যোগাযোগের নম্বর</string>
+    <string name="settings">সেটিংস</string>
+    <string name="shop">দোকান</string>
+    <string name="learn">শিখুন</string>
+    <string name="explain_your_problem">আপনার সমস্যা ব্যাখ্যা করুন</string>
+    <string name="enter_crop_type">ক্রপ টাইপ লিখুন</string>
+    <string name="upload">আপলোড করুন</string>
+    <string name="write_your_name">তোমার নাম লিখ</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="infected_plant_details">সংক্রমিত উদ্ভিদ বিবরণ</string>
+    <string name="get_medicine">ওষুধ পান</string>
+    <string name="see_diagnosis">" রোগ নির্ণয় দেখুন"</string>
+    <string name="click_a_picture">একটি ছবিতে ক্লিক করুন</string>
+    <string name="change_language">ভাষা পরিবর্তন করুন</string>
+    <string name="choose_language">ভাষা নির্বাচন করুন</string>
+    <string name="kindly_select_your_prefered_audio_language">অনুগ্রহ করে আপনার পছন্দের অডিও ভাষা নির্বাচন করুন</string>
+</resources>

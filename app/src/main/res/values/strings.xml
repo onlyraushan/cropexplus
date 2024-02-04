@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">CropEx Plus</string>
+    <string name="select_language">Kindly Select Your Preferred Language</string>
+    <string name="continuee">Continue</string>
+    <!-- Pre build-->
+    <string name="login">Login</string>
+    <string name="email">   Email</string>
+    <string name="password">   Password</string>
+    <string name="don_t_have_a_account_sign_up">Don\'t have an account? Sign Up </string>
+    <string name="create_an_account">Create an account</string>
+    <string name="name">Name</string>
+    <string name="already_have_an_acount_sign_in">Already have an acount? Sign in</string>
+    <string name="join">Join</string>
+    <string name="home">Home</string>
+    <string name="profile">Profile</string>
+    <string name="about">About us</string>
+    <string name="magic_login">Magic Login</string>
+    <string name="contact_number2">Contact Number</string>
+    <string name="settings">Settings</string>
+    <string name="shop">Shop</string>
+    <string name="learn">Learn</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="ask_the_expert">Ask the Expert</string>
+    <string name="view_solutions">View Solutions</string>
+    <string name="infected_plant_details">Infected Plant Details</string>
+    <string name="explain_your_problem">Explain Your Problem</string>
+    <string name="enter_crop_type">Enter Crop Type</string>
+    <string name="upload">Upload</string>
+    <string name="write_your_name">Write Your Name</string>
+    <string name="hindi" translatable="false">Hindi</string>
+    <string name="bengali" translatable="false">Bengali</string>
+    <string name="english" translatable="false">English</string>
+    <string name="get_medicine">Get Medicine</string>
+    <string name="see_diagnosis">See Diagnosis</string>
+    <string name="click_a_picture">Click a picture</string>
+    <string name="change_language">Change Language</string>
+    <string name="choose_language">Choose Language</string>
+    <string name="kindly_select_your_prefered_audio_language">Kindly select your prefered Audio Language</string>
+
+    <!--New -->
+</resources>

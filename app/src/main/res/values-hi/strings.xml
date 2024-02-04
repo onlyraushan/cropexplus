@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CropEx Plus</string>
+    <string name="magic_login">मैजिक लॉगिन</string>
+    <string name="select_language">कृपया अपनी पसंदीदा भाषा चुनें</string>
+    <string name="continuee">जारी रखना</string>
+    <string name="login">लॉग इन करें</string>
+    <string name="email">ईमेल</string>
+    <string name="password">पासवर्ड</string>
+    <string name="don_t_have_a_account_sign_up">कोई खाता नहीं है? साइन अप करें</string>
+    <string name="create_an_account">खाता बनाएं</string>
+    <string name="name">नाम</string>
+    <string name="already_have_an_acount_sign_in">क्या आपके पास पहले से एक खाता मौजूद है? दाखिल करना</string>
+    <string name="join">जोड़ना</string>
+    <string name="ask_the_expert">विशेषज्ञ से पूछें</string>
+    <string name="view_solutions">समाधान देखें</string>
+    <string name="home">"होम "</string>
+    <string name="profile">"प्रोफइल "</string>
+    <string name="about">"अबाउट अस "</string>
+    <string name="contact_number2">संपर्क संख्या</string>
+    <string name="settings">"सेटिंग्स "</string>
+    <string name="shop">दुकान</string>
+    <string name="learn">सीखना</string>
+    <string name="explain_your_problem">अपनी समस्या स्पष्ट करें</string>
+    <string name="enter_crop_type">फसल का प्रकार दर्ज करें</string>
+    <string name="upload">डालना</string>
+    <string name="write_your_name">अपना नाम लिखो</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="infected_plant_details">" संक्रमित पौधे का विवरण"</string>
+    <string name="get_medicine">दवा प्राप्त करें</string>
+    <string name="see_diagnosis">" निदान देखें"</string>
+    <string name="click_a_picture">" एक चित्र क्लिक करें"</string>
+    <string name="change_language">भाषा बदलें</string>
+    <string name="choose_language">भाषा चुनें</string>
+    <string name="kindly_select_your_prefered_audio_language">कृपया अपनी पसंदीदा ऑडियो भाषा चुनें</string>
+</resources>
